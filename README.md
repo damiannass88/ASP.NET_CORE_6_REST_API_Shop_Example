@@ -1,7 +1,10 @@
 
 ASP.NET_CORE_6_REST_API_Shop_Example
 
-How to create basic sets Rest Api for ASP.NET Core 6, with async responds?
+Context:
+"ASP.NET Web API is a framework that makes it easy to build HTTP services that reach a broad range of clients, including browsers and mobile devices. ASP.NET Web API is an ideal platform for building RESTful applications on the .NET Framework."
+
+<b>How to create basic sets Rest Api for ASP.NET Core 6, with async responds?</b>
 
 1. Create new "Internetowy interfejs API platformy ASP.NET Core".
  
